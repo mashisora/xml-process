@@ -1,3 +1,4 @@
 tasks:
   - name: npm
     init: npm install
+    command: clear

@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "mashisora",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
     "cheerio": "^1.0.0-rc.11"
   }
